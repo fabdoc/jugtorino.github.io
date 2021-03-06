@@ -11,7 +11,17 @@ editare online
 [questa pagina](https://github.com/jugtorino/jugtorino.github.io/edit/master/pages/j_jobs.md) 
 (richiede un account GitHub).  
 Le offerte più recenti in alto, dopo queste istruzioni.
+--
+**Date:** 06/03/2021
+**Company:** [jErgosoft](https://www.dentus.it/)  
+**Location:** Torino (Italia) / Remoto   
+**Title:** sviluppatore software per aggiungere funzionalità al nostro software
 
+ricerco sviluppatore per implementare:
+1) funzione di aggiornamento del software prelevando dal cloud i componenti cambiati. il programma deve fare backup dei componenti x roolback, scaricare i file, fermare il programma principale, fare update e rilanciare i programmi se erano in funzione
+
+2) implementare firma digitale: creazione di una libreria che permetta firma digitale di un pdf, archiviazione del pdf nel database, archiviazione a norma mediante il tool di firma scelto, ricerca dei documenti archiviati, export del pdf come file
+servirà poi un jpanel che implementi la visualizzazione dell'elenco dei documenti in base ai filtri (ad esempio data, tipo documento, cliente)
 ---
 
 **Date:** 13/08/2020  
